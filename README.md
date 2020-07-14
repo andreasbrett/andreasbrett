@@ -1,6 +1,6 @@
 
 ### Hey there, it's Andreas here
-I'm a kid of the 80s and born into tech. Being raised by parents both in information technology my path had already been paved. Started my dev experiences back in school with `Pascal` and `Basic`, ventured over `C++`, `Java` and some functional languages (who shall not be named... 🧙). Created quick-n-dirty bash/cmd/powershell scripts when working in IT ops and dipped my toes into `VB.NET` for lib development. Had a thing for web dev back when it still was working in a plain old text editor and uploading via SFTP... 
+I'm a kid of the 80s and born into tech. Being raised by parents both in information technology my path had already been paved. Started my dev experiences back in school with `Pascal` and `Basic`, ventured over `C++`, `Java` and some functional languages (who shall not be named... 🧙) at [TU Darmstadt](https://www.tu-darmstadt.de/). Created quick-n-dirty `bash`/`cmd`/`powershell` scripts when working in IT ops and dipped my toes into `VB.NET` for lib development. Had a thing for web dev back when it still was working in a plain old text editor and uploading via SFTP... 
 
 For fun and apart from work I'm mostly hacking `Javascript`, `Python`, `PHP` and `Go` into [Visual Studio Code](https://github.com/microsoft/vscode) or the like.
 
