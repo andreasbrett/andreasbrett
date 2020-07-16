@@ -14,7 +14,7 @@ For fun and apart from work I'm mostly hacking `Javascript`, `Python`, `PHP` and
 ### The numbers...
 I'm only here on GitHub for personal projects and stuff I contribute to. So please don't expect anything special... 🦄
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <p align="center">
