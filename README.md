@@ -5,9 +5,9 @@ I'm a kid of the 80s and born into tech. Being raised by parents both in informa
 For fun and apart from work I'm mostly hacking `Javascript`, `Python`, `PHP` and `Go` into [Visual Studio Code](https://github.com/microsoft/vscode) or the like.
 
 
-<!-- - ☀️ Working as **Information Security Specialist** with [Drooms](https://www.drooms.com) -->
-- ☀️ Working as **Infrastructure Specialist** with [AXA Investment Managers](https://www.axa-im.com)
-- 🏠 love fiddling with smart home tech (mainly [openHAB](https://github.com/openhab) and [ZigBee](https://github.com/Koenkk/zigbee2mqtt))
+<!-- - ☀️ I'm a **Information Security Specialist** with [Drooms](https://www.drooms.com) -->
+- ☀️ I'm a **Infrastructure Specialist** with [AXA Investment Managers](https://www.axa-im.com)
+- 🏠 I love fiddling with smart home tech (mainly [openHAB](https://github.com/openhab) and [ZigBee](https://github.com/Koenkk/zigbee2mqtt))
 - ❤️ I enjoy photography 📸 and being out capturing those amazing landscapes and sceneries this 🌍 has to offer
 - ❤️ I crave for music 🎧 and love noodling away daily stress 😵 on my guitars 🎸
 
