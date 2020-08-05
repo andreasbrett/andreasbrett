@@ -1,3 +1,4 @@
+### ![Who Am I?](https://raw.githubusercontent.com/andreasbrett/andreasbrett/master/assets/whoami.png)
 
 ### Hey there, it's Andreas here
 I'm a kid of the 80s and born into tech. Being raised by parents both in information technology my path had already been paved. Started my dev experiences back in school with `Pascal` and `Basic`, ventured over `C++`, `Java` and some functional languages (who shall not be named... 🧙) at [TU Darmstadt](https://www.tu-darmstadt.de/). Created quick-n-dirty `bash`/`cmd`/`powershell` scripts when working in IT ops and dipped my toes into `VB.NET` for lib development. Had a thing for web dev back when it still was working in a plain old text editor and uploading via SFTP... 
@@ -14,7 +15,15 @@ For fun and apart from work I'm mostly hacking `Javascript`, `Python`, `PHP` and
 ### The numbers...
 I'm only here on GitHub for personal projects and stuff I contribute to. So please don't expect anything special... 🦄
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasbrett" alt="Most Used Languages" style="vertical-align:top; margin: 0.3rem;" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true" alt="Most Used Languages" style="vertical-align:top; margin: 0.3rem;" />
+  </a>
+</div>
 
 <hr>
 <p align="center">
