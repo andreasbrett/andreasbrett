@@ -17,11 +17,11 @@ I'm only here on GitHub for personal projects and stuff I contribute to. So plea
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasbrett" alt="Most Used Languages" style="vertical-align:top; margin: 0.3rem;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasbrett" alt="Most Used Languages" align="top" style="vertical-align:top; margin: 0.3rem;" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true" alt="Most Used Languages" style="vertical-align:top; margin: 0.3rem;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andreasbrett&show_icons=true" alt="Most Used Languages" align="top" style="vertical-align:top; margin: 0.3rem;" />
   </a>
 </div>
 
