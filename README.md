@@ -5,7 +5,6 @@ I'm a kid of the 80s and born into tech. Being raised by parents both in informa
 
 For fun and apart from work I'm mostly hacking `Javascript`, `Python` and `Powershell` into [Visual Studio Code](https://github.com/microsoft/vscode) or the like.
 
-- ☀️ I'm an **Information Security Specialist** with [Drooms](https://www.drooms.com)
 - 🏠 I love fiddling with smart home tech (mainly [Home Assistant](https://github.com/home-assistant) and [ZigBee](https://github.com/Koenkk/zigbee2mqtt))
 - ❤️ I enjoy photography 📸 and being out capturing those amazing landscapes and sceneries this 🌍 has to offer
 - ❤️ I crave for music 🎧 and love noodling away daily stress 😵 on my guitars 🎸
